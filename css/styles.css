@@ -1,0 +1,26 @@
+body {
+    background-image: url("../img/img.jpg");
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#stats {
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+header{
+    background-color: rgba(255,255,255,0.6);
+    padding: 10px;
+}
+h1{
+    background-color: rgba(255,255,255,0.6);
+    padding: 10px;
+}
+h2{
+    background-color: rgba(255,255,255,0.6);
+    padding: 10px;
+}
